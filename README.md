@@ -66,6 +66,8 @@ Now users can **double-click** `ExpenseTracker.jar` to launch the program! 🎉
 - 🔜 Implement **Object-Oriented Programming (OOP) refactor**
 - 🔜 Integrate with **MySQL database** instead of CSV
 
+https://roadmap.sh/projects/expense-tracker
+
 
 
 
